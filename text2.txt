@@ -1,0 +1,39 @@
+                                                                                                                       O
+                                                                                                                        -------------001           STMTAcct#=DD007977022933 Branch=0965
+CUSTOMER NAME
+BUSINESS NAME STATEMENT DATE:  5/31/22
+123 MAIN LN PAGE NUMBER 1
+PLYMOUTH MA 02360-3056
+ACCOUNT 123456886 
+11
+Rockland Trust is teaming up with Shred It and Iron Mountain
+for shred events on April 23rd and April 30th at 9 branch
+locations. To find the closest location to you, visit
+RocklandTrust.com/ShredDay
+Account Name Account Number  Balance
+FREE BUSINESS CHECKING 123545134 4,888.30
+FREE BUSINESS CHECKING BRIAN J SANTOS Acct  123456886                               
+DBA DELUXE AUTO DETAILING COMPANY
+Beginning Balance 5/01/22 1,676.74
+Deposits / Misc Credits 12 33,523.08
+Withdrawals / Misc Debits      79 30,311.52
+** Ending Balance 5/31/22 4,888.30  **
+Service Charge .00
+Enclosures 11
+Miscellaneous Credits
+ Date Deposits Activity Description
+ 5/03 451.09 GRPN MERCH SVCS/N300062063                                                    05032022DGRPN MERCH SVCS/N300062063_451.09A00003043436I
+C300062063P1718 Deluxe Auto Detailing
+ 5/06 2,640.00 MDEPOSIT                                                                      05062022DMDEPOSIT_2640.00A00126074370I
+ 5/06 185.00 MDEPOSIT                                                                      05062022DMDEPOSIT_185.00A00126074378I
+ 5/06 125.00 MDEPOSIT                                                                      05062022DMDEPOSIT_125.00A00126074384I
+ 5/13 2,040.00 MDEPOSIT                                                                      05132022DMDEPOSIT_2040.00A00133069778I
+ 5/13 160.00 MDEPOSIT                                                                      05132022DMDEPOSIT_160.00A00133069800I
+ 5/13 80.00 MDEPOSIT                                                                      05132022DMDEPOSIT_80.00A00133069790I
+ 5/16 11,744.00 McKenzie Capital/Advance 5845380 Deluxe                                       05162022DMCKENZIE CAPITAL/ADVANCE 5845380 DELUXE_11744.00A00003046446I
+Auto Detailing
+ 5/17 982.99 GRPN MERCH SVCS/N300062305                                                    05172022DGRPN MERCH SVCS/N300062305_982.99A00003036496I
+C300062305P1685 Deluxe Auto Detailing
+ 5/20 2,400.00                    MDEPOSIT                                                                      05202022DMDEPOSIT_2400.00A00140082311I
+ 5/25 9,900.00 WT CR SMALL BUSINESS FINANCIAL SOLUTIONS
+ 5/27 2,815.00                    DEPOSIT                                                                       05272022DDEPOSIT_2815.00A00147090695I
